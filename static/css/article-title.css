@@ -1,7 +1,7 @@
 .article-title h2{
     font-size: 48px;
     font-weight: bold;
-    line-height: 1;
-    width: 710;
-    height: 224;
+    padding-top: 38px;
+    padding-bottom: 52px;
+    margin-bottom: 0px;
 }
